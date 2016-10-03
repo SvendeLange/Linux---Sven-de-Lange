@@ -1,0 +1,16 @@
+#Cheat Sheets
+
+
+## Vim survival guide
+
+- Bij opstarten van Vim kom je terecht in *normal mode*.
+- Als je tekst wil invoeren moet je naar *insert mode*.
+
+| Taak                       | Commando |
+| :---                       | :---     |
+| Normal mode -> insert mode | `i`      |
+| Insert mode -> normal mode | `<Esc>`  |
+| Opslaan                    | `:w`     |
+| Opslaan en afsluiten       | `:wq`    |
+| Afsluiten zonder opslaan   | `:q!`    |
+
